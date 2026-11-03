@@ -1,0 +1,176 @@
+{
+ "duration": 71.0,
+ "score_profile": "ep01",
+ "lines": [
+  {
+   "id": "L01",
+   "start": 0.6,
+   "end": 6.651
+  },
+  {
+   "id": "L02",
+   "start": 6.931,
+   "end": 8.886
+  },
+  {
+   "id": "L03",
+   "start": 9.271,
+   "end": 13.055
+  },
+  {
+   "id": "L04",
+   "start": 13.44,
+   "end": 18.528
+  },
+  {
+   "id": "L05",
+   "start": 18.843,
+   "end": 23.093
+  },
+  {
+   "id": "L06",
+   "start": 23.513,
+   "end": 28.549
+  },
+  {
+   "id": "L07",
+   "start": 28.864,
+   "end": 34.546
+  },
+  {
+   "id": "L08",
+   "start": 35.036,
+   "end": 41.427
+  },
+  {
+   "id": "L09",
+   "start": 41.917,
+   "end": 46.467
+  },
+  {
+   "id": "L10",
+   "start": 46.887,
+   "end": 51.423
+  },
+  {
+   "id": "L11",
+   "start": 51.808,
+   "end": 56.711
+  },
+  {
+   "id": "L12",
+   "start": 57.131,
+   "end": 62.117
+  },
+  {
+   "id": "L13",
+   "start": 62.957,
+   "end": 64.145
+  }
+ ],
+ "sfx": [
+  {
+   "t": 0.05,
+   "type": "bell_dingding",
+   "gain_db": -3
+  },
+  {
+   "t": 2.4,
+   "type": "crackle",
+   "dur": 2.0,
+   "gain_db": -8
+  },
+  {
+   "t": 11.95,
+   "type": "horn_far",
+   "gain_db": -6
+  },
+  {
+   "t": 14.3,
+   "type": "footsteps",
+   "gain_db": -8
+  },
+  {
+   "t": 23.5,
+   "type": "cloth",
+   "gain_db": -8
+  },
+  {
+   "t": 31.4,
+   "type": "crackle",
+   "dur": 2.0,
+   "gain_db": -6
+  },
+  {
+   "t": 38.6,
+   "type": "cloth",
+   "gain_db": -10
+  },
+  {
+   "t": 44.0,
+   "type": "bus_pass",
+   "gain_db": -10
+  },
+  {
+   "t": 46.75,
+   "type": "page_turn",
+   "variant": 1
+  },
+  {
+   "t": 51.85,
+   "type": "notice_rustle",
+   "gain_db": -4
+  },
+  {
+   "t": 56.6,
+   "type": "breath"
+  },
+  {
+   "t": 62.4,
+   "type": "breath"
+  },
+  {
+   "t": 64.5,
+   "type": "bell_dingding",
+   "gain_db": -3
+  }
+ ],
+ "beds": [
+  {
+   "type": "morning_lane",
+   "start": 0,
+   "end": 2.5,
+   "fade": 0.3,
+   "bus_at": null
+  },
+  {
+   "type": "dawn",
+   "start": 2.3,
+   "end": 4.6,
+   "fade": 0.3
+  },
+  {
+   "type": "morning_lane",
+   "start": 4.4,
+   "end": 46.8,
+   "fade": 0.4,
+   "bus_at": null
+  },
+  {
+   "type": "room_tone",
+   "start": 46.6,
+   "end": 51.9,
+   "fade": 0.3
+  },
+  {
+   "type": "morning_lane",
+   "start": 51.7,
+   "end": 71.0,
+   "fade": 0.4,
+   "bus_at": null
+  }
+ ],
+ "music_cues": {
+  "final_bell": 64.5
+ }
+}
