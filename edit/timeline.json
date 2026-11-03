@@ -1,0 +1,297 @@
+{
+ "duration": 92.0,
+ "lines": [
+  {
+   "id": "L01",
+   "start": 0.6,
+   "end": 5.49
+  },
+  {
+   "id": "L02",
+   "start": 5.805,
+   "end": 7.913
+  },
+  {
+   "id": "L03",
+   "start": 8.158,
+   "end": 9.891
+  },
+  {
+   "id": "L04",
+   "start": 10.346,
+   "end": 15.276
+  },
+  {
+   "id": "L05",
+   "start": 15.486,
+   "end": 19.148
+  },
+  {
+   "id": "L06",
+   "start": 19.533,
+   "end": 24.734
+  },
+  {
+   "id": "L07",
+   "start": 25.329,
+   "end": 28.242
+  },
+  {
+   "id": "L08",
+   "start": 28.732,
+   "end": 33.969
+  },
+  {
+   "id": "L09",
+   "start": 34.179,
+   "end": 38.381
+  },
+  {
+   "id": "L10",
+   "start": 38.906,
+   "end": 41.351
+  },
+  {
+   "id": "L11",
+   "start": 41.596,
+   "end": 46.089
+  },
+  {
+   "id": "L12",
+   "start": 46.369,
+   "end": 48.611
+  },
+  {
+   "id": "L13",
+   "start": 49.101,
+   "end": 52.175
+  },
+  {
+   "id": "L14",
+   "start": 52.385,
+   "end": 55.216
+  },
+  {
+   "id": "L15",
+   "start": 55.566,
+   "end": 58.24
+  },
+  {
+   "id": "L16",
+   "start": 58.66,
+   "end": 62.701
+  },
+  {
+   "id": "L17",
+   "start": 63.296,
+   "end": 67.671
+  },
+  {
+   "id": "L18",
+   "start": 68.231,
+   "end": 72.226
+  },
+  {
+   "id": "L19",
+   "start": 72.786,
+   "end": 78.182
+  },
+  {
+   "id": "L20",
+   "start": 78.497,
+   "end": 82.477
+  },
+  {
+   "id": "L21",
+   "start": 83.072,
+   "end": 84.641
+  },
+  {
+   "id": "L22",
+   "start": 85.096,
+   "end": 87.546
+  }
+ ],
+ "sfx": [
+  {
+   "t": 0.05,
+   "type": "bell_dingding",
+   "gain_db": -3
+  },
+  {
+   "t": 1.8,
+   "type": "kite",
+   "gain_db": -6
+  },
+  {
+   "t": 12.2,
+   "type": "cloth",
+   "gain_db": -4
+  },
+  {
+   "t": 14.5,
+   "type": "cloth",
+   "gain_db": -8
+  },
+  {
+   "t": 21.85,
+   "type": "passbook_flip"
+  },
+  {
+   "t": 24.7,
+   "type": "breath"
+  },
+  {
+   "t": 30.9,
+   "type": "dog_far",
+   "gain_db": -8
+  },
+  {
+   "t": 33.95,
+   "type": "notice_rustle"
+  },
+  {
+   "t": 38.85,
+   "type": "trunk_open"
+  },
+  {
+   "t": 41.55,
+   "type": "cloth"
+  },
+  {
+   "t": 42.7,
+   "type": "bell_clink",
+   "gain_db": -4
+  },
+  {
+   "t": 46.35,
+   "type": "cloth"
+  },
+  {
+   "t": 49.05,
+   "type": "page_turn",
+   "variant": 0
+  },
+  {
+   "t": 52.1,
+   "type": "pencil",
+   "dur": 2.6
+  },
+  {
+   "t": 55.05,
+   "type": "paper_handle"
+  },
+  {
+   "t": 57.95,
+   "type": "page_flutter",
+   "pages": 46
+  },
+  {
+   "t": 63.25,
+   "type": "page_turn",
+   "variant": 1
+  },
+  {
+   "t": 68.25,
+   "type": "page_turn",
+   "variant": 2
+  },
+  {
+   "t": 70.65,
+   "type": "paper_tear",
+   "gain_db": -6
+  },
+  {
+   "t": 72.3,
+   "type": "breath"
+  },
+  {
+   "t": 73.0,
+   "type": "ma_arrives"
+  },
+  {
+   "t": 78.45,
+   "type": "door_creak",
+   "gain_db": -6
+  },
+  {
+   "t": 82.95,
+   "type": "cloth"
+  },
+  {
+   "t": 82.5,
+   "type": "breath"
+  },
+  {
+   "t": 84.95,
+   "type": "page_turn",
+   "variant": 3
+  },
+  {
+   "t": 87.9,
+   "type": "bell_dingding",
+   "gain_db": -3
+  },
+  {
+   "t": 60.5,
+   "type": "clock_tick",
+   "gain_db": -2
+  },
+  {
+   "t": 61.5,
+   "type": "clock_tick",
+   "gain_db": -2
+  },
+  {
+   "t": 62.5,
+   "type": "clock_tick",
+   "gain_db": -2
+  }
+ ],
+ "beds": [
+  {
+   "type": "dawn",
+   "start": 0,
+   "end": 19.6,
+   "fade": 0.4
+  },
+  {
+   "type": "room_tone",
+   "start": 19.3,
+   "end": 28.8,
+   "fade": 0.3
+  },
+  {
+   "type": "morning_lane",
+   "start": 28.6,
+   "end": 31.0,
+   "fade": 0.3,
+   "bus_at": null
+  },
+  {
+   "type": "room_tone",
+   "start": 30.8,
+   "end": 39.0,
+   "fade": 0.3
+  },
+  {
+   "type": "night_room",
+   "start": 38.8,
+   "end": 87.0,
+   "fade": 0.5
+  },
+  {
+   "type": "morning_lane",
+   "start": 86.8,
+   "end": 92.0,
+   "fade": 0.4,
+   "bus_at": 0.5
+  }
+ ],
+ "music_cues": {
+  "drop_at": 24.7,
+  "diary_reveal": 46.3,
+  "torn_page": 68.2,
+  "final_bell": 87.9
+ }
+}
