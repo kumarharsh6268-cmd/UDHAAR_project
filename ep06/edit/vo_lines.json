@@ -1,0 +1,1365 @@
+{
+ "duration": 88.38,
+ "lines": [
+  {
+   "id": "g00",
+   "start": 1.07,
+   "end": 2.23,
+   "text": "Aapne kaha, cheque le lo.",
+   "words": [
+    [
+     "Aapne",
+     1.07
+    ],
+    [
+     "kaha,",
+     1.342
+    ],
+    [
+     "cheque",
+     1.685
+    ],
+    [
+     "le",
+     1.962
+    ],
+    [
+     "lo.",
+     2.096
+    ]
+   ]
+  },
+  {
+   "id": "g01",
+   "start": 3.05,
+   "end": 6.67,
+   "text": "Gauri ji ne ek lakh bees hazaar ka cheque diya, aur boli, \"Hisaab barabar.\"",
+   "words": [
+    [
+     "Gauri",
+     3.05
+    ],
+    [
+     "ji",
+     3.363
+    ],
+    [
+     "ne",
+     3.516
+    ],
+    [
+     "ek",
+     3.67
+    ],
+    [
+     "lakh",
+     3.823
+    ],
+    [
+     "bees",
+     3.988
+    ],
+    [
+     "hazaar",
+     4.152
+    ],
+    [
+     "ka",
+     4.47
+    ],
+    [
+     "cheque",
+     4.623
+    ],
+    [
+     "diya,",
+     4.941
+    ],
+    [
+     "aur",
+     5.334
+    ],
+    [
+     "boli,",
+     5.493
+    ],
+    [
+     "\"Hisaab",
+     5.886
+    ],
+    [
+     "barabar.\"",
+     6.204
+    ]
+   ]
+  },
+  {
+   "id": "g02",
+   "start": 7.21,
+   "end": 8.38,
+   "text": "Phir nazar pher kar bataaya,",
+   "words": [
+    [
+     "Phir",
+     7.21
+    ],
+    [
+     "nazar",
+     7.362
+    ],
+    [
+     "pher",
+     7.651
+    ],
+    [
+     "kar",
+     7.802
+    ],
+    [
+     "bataaya,",
+     7.949
+    ]
+   ]
+  },
+  {
+   "id": "g03",
+   "start": 8.78,
+   "end": 10.41,
+   "text": "\"Tumhare Papa ke aakhri shabd the...",
+   "words": [
+    [
+     "\"Tumhare",
+     8.78
+    ],
+    [
+     "Papa",
+     9.263
+    ],
+    [
+     "ke",
+     9.581
+    ],
+    [
+     "aakhri",
+     9.74
+    ],
+    [
+     "shabd",
+     10.07
+    ],
+    [
+     "the...",
+     10.245
+    ]
+   ]
+  },
+  {
+   "id": "g04",
+   "start": 10.91,
+   "end": 12.26,
+   "text": "peetal ki ghanti... saintalis ko...\"",
+   "words": [
+    [
+     "peetal",
+     10.91
+    ],
+    [
+     "ki",
+     11.195
+    ],
+    [
+     "ghanti...",
+     11.333
+    ],
+    [
+     "saintalis",
+     11.695
+    ],
+    [
+     "ko...\"",
+     12.122
+    ]
+   ]
+  },
+  {
+   "id": "g05",
+   "start": 12.73,
+   "end": 15.23,
+   "text": "Sunkar mujhe ghar mein rakhi Papa ki ghanti yaad aayi.",
+   "words": [
+    [
+     "Sunkar",
+     12.73
+    ],
+    [
+     "mujhe",
+     13.045
+    ],
+    [
+     "ghar",
+     13.355
+    ],
+    [
+     "mein",
+     13.518
+    ],
+    [
+     "rakhi",
+     13.681
+    ],
+    [
+     "Papa",
+     13.991
+    ],
+    [
+     "ki",
+     14.295
+    ],
+    [
+     "ghanti",
+     14.447
+    ],
+    [
+     "yaad",
+     14.763
+    ],
+    [
+     "aayi.",
+     14.925
+    ]
+   ]
+  },
+  {
+   "id": "g06",
+   "start": 15.78,
+   "end": 17.8,
+   "text": "Magar saintalis se unka kya matlab tha?",
+   "words": [
+    [
+     "Magar",
+     15.78
+    ],
+    [
+     "saintalis",
+     16.115
+    ],
+    [
+     "se",
+     16.625
+    ],
+    [
+     "unka",
+     16.79
+    ],
+    [
+     "kya",
+     17.119
+    ],
+    [
+     "matlab",
+     17.289
+    ],
+    [
+     "tha?",
+     17.63
+    ]
+   ]
+  },
+  {
+   "id": "g07",
+   "start": 18.55,
+   "end": 20.68,
+   "text": "Diary ka saintalisvaan naam kata hua tha,",
+   "words": [
+    [
+     "Diary",
+     18.55
+    ],
+    [
+     "ka",
+     18.756
+    ],
+    [
+     "saintalisvaan",
+     18.943
+    ],
+    [
+     "naam",
+     19.721
+    ],
+    [
+     "kata",
+     19.921
+    ],
+    [
+     "hua",
+     20.294
+    ],
+    [
+     "tha,",
+     20.487
+    ]
+   ]
+  },
+  {
+   "id": "g08",
+   "start": 21.03,
+   "end": 22.85,
+   "text": "aur ticket ka route bhi saintalis tha.",
+   "words": [
+    [
+     "aur",
+     21.03
+    ],
+    [
+     "ticket",
+     21.196
+    ],
+    [
+     "ka",
+     21.529
+    ],
+    [
+     "route",
+     21.69
+    ],
+    [
+     "bhi",
+     22.018
+    ],
+    [
+     "saintalis",
+     22.184
+    ],
+    [
+     "tha.",
+     22.684
+    ]
+   ]
+  },
+  {
+   "id": "g09",
+   "start": 23.31,
+   "end": 25.34,
+   "text": "Unke aakhri shabdon mein mera naam nahi tha.",
+   "words": [
+    [
+     "Unke",
+     23.31
+    ],
+    [
+     "aakhri",
+     23.614
+    ],
+    [
+     "shabdon",
+     23.929
+    ],
+    [
+     "mein",
+     24.249
+    ],
+    [
+     "mera",
+     24.412
+    ],
+    [
+     "naam",
+     24.716
+    ],
+    [
+     "nahi",
+     24.878
+    ],
+    [
+     "tha.",
+     25.183
+    ]
+   ]
+  },
+  {
+   "id": "g10",
+   "start": 25.91,
+   "end": 27.64,
+   "text": "Phir maine diary ka chhatha panna khola.",
+   "words": [
+    [
+     "Phir",
+     25.91
+    ],
+    [
+     "maine",
+     26.073
+    ],
+    [
+     "diary",
+     26.382
+    ],
+    [
+     "ka",
+     26.55
+    ],
+    [
+     "chhatha",
+     26.702
+    ],
+    [
+     "panna",
+     27.022
+    ],
+    [
+     "khola.",
+     27.331
+    ]
+   ]
+  },
+  {
+   "id": "g11",
+   "start": 28.21,
+   "end": 29.76,
+   "text": "Usmein Rukhsana Begum ka pata tha,",
+   "words": [
+    [
+     "Usmein",
+     28.21
+    ],
+    [
+     "Rukhsana",
+     28.496
+    ],
+    [
+     "Begum",
+     28.921
+    ],
+    [
+     "ka",
+     29.202
+    ],
+    [
+     "pata",
+     29.34
+    ],
+    [
+     "tha,",
+     29.617
+    ]
+   ]
+  },
+  {
+   "id": "g12",
+   "start": 30.07,
+   "end": 32.19,
+   "text": "aur silaai machine ke tees hazaar rupaye likhe the.",
+   "words": [
+    [
+     "aur",
+     30.07
+    ],
+    [
+     "silaai",
+     30.204
+    ],
+    [
+     "machine",
+     30.473
+    ],
+    [
+     "ke",
+     30.866
+    ],
+    [
+     "tees",
+     30.996
+    ],
+    [
+     "hazaar",
+     31.135
+    ],
+    [
+     "rupaye",
+     31.403
+    ],
+    [
+     "likhe",
+     31.792
+    ],
+    [
+     "the.",
+     32.056
+    ]
+   ]
+  },
+  {
+   "id": "g13",
+   "start": 32.68,
+   "end": 34.19,
+   "text": "Unse milne Darzi Gali pahuncha,",
+   "words": [
+    [
+     "Unse",
+     32.68
+    ],
+    [
+     "milne",
+     32.951
+    ],
+    [
+     "Darzi",
+     33.227
+    ],
+    [
+     "Gali",
+     33.503
+    ],
+    [
+     "pahuncha,",
+     33.774
+    ]
+   ]
+  },
+  {
+   "id": "g14",
+   "start": 34.95,
+   "end": 36.79,
+   "text": "toh dukaan mein teen machinein chal rahi thi,",
+   "words": [
+    [
+     "toh",
+     34.95
+    ],
+    [
+     "dukaan",
+     35.103
+    ],
+    [
+     "mein",
+     35.409
+    ],
+    [
+     "teen",
+     35.567
+    ],
+    [
+     "machinein",
+     35.725
+    ],
+    [
+     "chal",
+     36.184
+    ],
+    [
+     "rahi",
+     36.342
+    ],
+    [
+     "thi,",
+     36.637
+    ]
+   ]
+  },
+  {
+   "id": "g15",
+   "start": 37.07,
+   "end": 40.04,
+   "text": "jabki kone mein rakhi puraani kaali machine par koi nahi baitha tha.",
+   "words": [
+    [
+     "jabki",
+     37.07
+    ],
+    [
+     "kone",
+     37.34
+    ],
+    [
+     "mein",
+     37.605
+    ],
+    [
+     "rakhi",
+     37.746
+    ],
+    [
+     "puraani",
+     38.016
+    ],
+    [
+     "kaali",
+     38.418
+    ],
+    [
+     "machine",
+     38.687
+    ],
+    [
+     "par",
+     39.09
+    ],
+    [
+     "koi",
+     39.227
+    ],
+    [
+     "nahi",
+     39.364
+    ],
+    [
+     "baitha",
+     39.629
+    ],
+    [
+     "tha.",
+     39.903
+    ]
+   ]
+  },
+  {
+   "id": "g16",
+   "start": 40.54,
+   "end": 43.67,
+   "text": "Maine unhe diary dikha kar machine ke paise lautaane ki baat ki,",
+   "words": [
+    [
+     "Maine",
+     40.54
+    ],
+    [
+     "unhe",
+     40.852
+    ],
+    [
+     "diary",
+     41.159
+    ],
+    [
+     "dikha",
+     41.328
+    ],
+    [
+     "kar",
+     41.64
+    ],
+    [
+     "machine",
+     41.798
+    ],
+    [
+     "ke",
+     42.264
+    ],
+    [
+     "paise",
+     42.417
+    ],
+    [
+     "lautaane",
+     42.729
+    ],
+    [
+     "ki",
+     43.199
+    ],
+    [
+     "baat",
+     43.353
+    ],
+    [
+     "ki,",
+     43.517
+    ]
+   ]
+  },
+  {
+   "id": "g17",
+   "start": 44.0,
+   "end": 45.14,
+   "text": "toh unka chehra utar gaya.",
+   "words": [
+    [
+     "toh",
+     44.0
+    ],
+    [
+     "unka",
+     44.13
+    ],
+    [
+     "chehra",
+     44.38
+    ],
+    [
+     "utar",
+     44.639
+    ],
+    [
+     "gaya.",
+     44.89
+    ]
+   ]
+  },
+  {
+   "id": "g18",
+   "start": 45.74,
+   "end": 47.0,
+   "text": "Boli, \"Udhaar kis baat ka?",
+   "words": [
+    [
+     "Boli,",
+     45.74
+    ],
+    [
+     "\"Udhaar",
+     46.157
+    ],
+    [
+     "kis",
+     46.494
+    ],
+    [
+     "baat",
+     46.663
+    ],
+    [
+     "ka?",
+     46.837
+    ]
+   ]
+  },
+  {
+   "id": "g19",
+   "start": 47.83,
+   "end": 50.74,
+   "text": "Tumhare Papa baarah saal tak har mahine paanch sau dete the.",
+   "words": [
+    [
+     "Tumhare",
+     47.83
+    ],
+    [
+     "Papa",
+     48.309
+    ],
+    [
+     "baarah",
+     48.624
+    ],
+    [
+     "saal",
+     48.95
+    ],
+    [
+     "tak",
+     49.119
+    ],
+    [
+     "har",
+     49.282
+    ],
+    [
+     "mahine",
+     49.445
+    ],
+    [
+     "paanch",
+     49.919
+    ],
+    [
+     "sau",
+     50.098
+    ],
+    [
+     "dete",
+     50.261
+    ],
+    [
+     "the.",
+     50.577
+    ]
+   ]
+  },
+  {
+   "id": "g20",
+   "start": 51.3,
+   "end": 51.89,
+   "text": "Kehte the,",
+   "words": [
+    [
+     "Kehte",
+     51.3
+    ],
+    [
+     "the,",
+     51.691
+    ]
+   ]
+  },
+  {
+   "id": "g21",
+   "start": 52.21,
+   "end": 53.42,
+   "text": "silaai ka advance hai,",
+   "words": [
+    [
+     "silaai",
+     52.21
+    ],
+    [
+     "ka",
+     52.561
+    ],
+    [
+     "advance",
+     52.73
+    ],
+    [
+     "hai,",
+     53.245
+    ]
+   ]
+  },
+  {
+   "id": "g22",
+   "start": 53.72,
+   "end": 55.37,
+   "text": "magar kabhi kuch silwaaya hi nahi.",
+   "words": [
+    [
+     "magar",
+     53.72
+    ],
+    [
+     "kabhi",
+     54.02
+    ],
+    [
+     "kuch",
+     54.319
+    ],
+    [
+     "silwaaya",
+     54.477
+    ],
+    [
+     "hi",
+     54.928
+    ],
+    [
+     "nahi.",
+     55.076
+    ]
+   ]
+  },
+  {
+   "id": "g23",
+   "start": 55.77,
+   "end": 57.63,
+   "text": "Ise udhaar kehna unki beizzati hai.\"",
+   "words": [
+    [
+     "Ise",
+     55.77
+    ],
+    [
+     "udhaar",
+     56.07
+    ],
+    [
+     "kehna",
+     56.386
+    ],
+    [
+     "unki",
+     56.697
+    ],
+    [
+     "beizzati",
+     57.003
+    ],
+    [
+     "hai.\"",
+     57.472
+    ]
+   ]
+  },
+  {
+   "id": "g24",
+   "start": 58.2,
+   "end": 60.51,
+   "text": "Maine hisaab joda, toh bahattar hazaar rupaye hue.",
+   "words": [
+    [
+     "Maine",
+     58.2
+    ],
+    [
+     "hisaab",
+     58.479
+    ],
+    [
+     "joda,",
+     58.762
+    ],
+    [
+     "toh",
+     59.112
+    ],
+    [
+     "bahattar",
+     59.254
+    ],
+    [
+     "hazaar",
+     59.674
+    ],
+    [
+     "rupaye",
+     59.958
+    ],
+    [
+     "hue.",
+     60.368
+    ]
+   ]
+  },
+  {
+   "id": "g25",
+   "start": 60.93,
+   "end": 63.79,
+   "text": "Lekin diary mein sirf machine ke tees hazaar likhe the.",
+   "words": [
+    [
+     "Lekin",
+     60.93
+    ],
+    [
+     "diary",
+     61.305
+    ],
+    [
+     "mein",
+     61.508
+    ],
+    [
+     "sirf",
+     61.706
+    ],
+    [
+     "machine",
+     61.903
+    ],
+    [
+     "ke",
+     62.462
+    ],
+    [
+     "tees",
+     62.646
+    ],
+    [
+     "hazaar",
+     62.843
+    ],
+    [
+     "likhe",
+     63.224
+    ],
+    [
+     "the.",
+     63.599
+    ]
+   ]
+  },
+  {
+   "id": "g26",
+   "start": 64.61,
+   "end": 67.28,
+   "text": "Har mahine diye gaye un paison ka kahin zikr nahi tha.",
+   "words": [
+    [
+     "Har",
+     64.61
+    ],
+    [
+     "mahine",
+     64.761
+    ],
+    [
+     "diye",
+     65.2
+    ],
+    [
+     "gaye",
+     65.493
+    ],
+    [
+     "un",
+     65.786
+    ],
+    [
+     "paison",
+     65.932
+    ],
+    [
+     "ka",
+     66.235
+    ],
+    [
+     "kahin",
+     66.381
+    ],
+    [
+     "zikr",
+     66.679
+    ],
+    [
+     "nahi",
+     66.836
+    ],
+    [
+     "tha.",
+     67.129
+    ]
+   ]
+  },
+  {
+   "id": "g27",
+   "start": 67.74,
+   "end": 69.17,
+   "text": "Agar Papa madad kar rahe the,",
+   "words": [
+    [
+     "Agar",
+     67.74
+    ],
+    [
+     "Papa",
+     68.023
+    ],
+    [
+     "madad",
+     68.306
+    ],
+    [
+     "kar",
+     68.594
+    ],
+    [
+     "rahe",
+     68.741
+    ],
+    [
+     "the,",
+     69.024
+    ]
+   ]
+  },
+  {
+   "id": "g28",
+   "start": 69.54,
+   "end": 71.33,
+   "text": "toh kya machine ke paise bhi madad hi the?",
+   "words": [
+    [
+     "toh",
+     69.54
+    ],
+    [
+     "kya",
+     69.68
+    ],
+    [
+     "machine",
+     69.82
+    ],
+    [
+     "ke",
+     70.23
+    ],
+    [
+     "paise",
+     70.365
+    ],
+    [
+     "bhi",
+     70.64
+    ],
+    [
+     "madad",
+     70.78
+    ],
+    [
+     "hi",
+     71.055
+    ],
+    [
+     "the?",
+     71.19
+    ]
+   ]
+  },
+  {
+   "id": "g29",
+   "start": 71.75,
+   "end": 73.84,
+   "text": "Rukhsana ji tees hazaar lauta sakti thi,",
+   "words": [
+    [
+     "Rukhsana",
+     71.75
+    ],
+    [
+     "ji",
+     72.271
+    ],
+    [
+     "tees",
+     72.441
+    ],
+    [
+     "hazaar",
+     72.622
+    ],
+    [
+     "lauta",
+     72.974
+    ],
+    [
+     "sakti",
+     73.319
+    ],
+    [
+     "thi,",
+     73.664
+    ]
+   ]
+  },
+  {
+   "id": "g30",
+   "start": 74.31,
+   "end": 76.41,
+   "text": "lekin woh ise udhaar maanti hi nahi thi.",
+   "words": [
+    [
+     "lekin",
+     74.31
+    ],
+    [
+     "woh",
+     74.634
+    ],
+    [
+     "ise",
+     74.798
+    ],
+    [
+     "udhaar",
+     75.11
+    ],
+    [
+     "maanti",
+     75.439
+    ],
+    [
+     "hi",
+     75.769
+    ],
+    [
+     "nahi",
+     75.928
+    ],
+    [
+     "thi.",
+     76.245
+    ]
+   ]
+  },
+  {
+   "id": "g31",
+   "start": 77.03,
+   "end": 77.7,
+   "text": "Doosri taraf,",
+   "words": [
+    [
+     "Doosri",
+     77.03
+    ],
+    [
+     "taraf,",
+     77.368
+    ]
+   ]
+  },
+  {
+   "id": "g32",
+   "start": 77.95,
+   "end": 80.49,
+   "text": "machine ka hisaab Papa ne diary mein khud likha tha.",
+   "words": [
+    [
+     "machine",
+     77.95
+    ],
+    [
+     "ka",
+     78.45
+    ],
+    [
+     "hisaab",
+     78.615
+    ],
+    [
+     "Papa",
+     78.956
+    ],
+    [
+     "ne",
+     79.285
+    ],
+    [
+     "diary",
+     79.45
+    ],
+    [
+     "mein",
+     79.632
+    ],
+    [
+     "khud",
+     79.808
+    ],
+    [
+     "likha",
+     79.984
+    ],
+    [
+     "tha.",
+     80.32
+    ]
+   ]
+  },
+  {
+   "id": "g33",
+   "start": 80.86,
+   "end": 82.62,
+   "text": "Unhone diary meri taraf sarka di.",
+   "words": [
+    [
+     "Unhone",
+     80.86
+    ],
+    [
+     "diary",
+     81.333
+    ],
+    [
+     "meri",
+     81.506
+    ],
+    [
+     "taraf",
+     81.821
+    ],
+    [
+     "sarka",
+     82.142
+    ],
+    [
+     "di.",
+     82.462
+    ]
+   ]
+  },
+  {
+   "id": "g34",
+   "start": 82.98,
+   "end": 83.83,
+   "text": "Ab aap bataaiye,",
+   "words": [
+    [
+     "Ab",
+     82.98
+    ],
+    [
+     "aap",
+     83.147
+    ],
+    [
+     "bataaiye,",
+     83.319
+    ]
+   ]
+  },
+  {
+   "id": "g35",
+   "start": 84.08,
+   "end": 87.75,
+   "text": "Papa ka likha maan kar paise maangoon, ya Rukhsana ji ki baat maan kar rehne doon?",
+   "words": [
+    [
+     "Papa",
+     84.08
+    ],
+    [
+     "ka",
+     84.383
+    ],
+    [
+     "likha",
+     84.535
+    ],
+    [
+     "maan",
+     84.843
+    ],
+    [
+     "kar",
+     85.005
+    ],
+    [
+     "paise",
+     85.162
+    ],
+    [
+     "maangoon,",
+     85.47
+    ],
+    [
+     "ya",
+     85.879
+    ],
+    [
+     "Rukhsana",
+     86.03
+    ],
+    [
+     "ji",
+     86.496
+    ],
+    [
+     "ki",
+     86.647
+    ],
+    [
+     "baat",
+     86.799
+    ],
+    [
+     "maan",
+     86.961
+    ],
+    [
+     "kar",
+     87.123
+    ],
+    [
+     "rehne",
+     87.28
+    ],
+    [
+     "doon?",
+     87.588
+    ]
+   ]
+  }
+ ]
+}

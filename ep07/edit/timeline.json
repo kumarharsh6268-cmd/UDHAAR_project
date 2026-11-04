@@ -1,0 +1,356 @@
+{
+ "duration": 100.1,
+ "score_profile": "ep07",
+ "lines": [
+  {
+   "id": "g00",
+   "start": 1.15,
+   "end": 3.43
+  },
+  {
+   "id": "g01",
+   "start": 3.81,
+   "end": 4.91
+  },
+  {
+   "id": "g02",
+   "start": 5.46,
+   "end": 7.69
+  },
+  {
+   "id": "g03",
+   "start": 8.11,
+   "end": 10.11
+  },
+  {
+   "id": "g04",
+   "start": 10.38,
+   "end": 12.82
+  },
+  {
+   "id": "g05",
+   "start": 13.33,
+   "end": 15.02
+  },
+  {
+   "id": "g06",
+   "start": 15.51,
+   "end": 16.53
+  },
+  {
+   "id": "g07",
+   "start": 17.17,
+   "end": 18.26
+  },
+  {
+   "id": "g08",
+   "start": 18.66,
+   "end": 23.13
+  },
+  {
+   "id": "g09",
+   "start": 23.74,
+   "end": 26.29
+  },
+  {
+   "id": "g10",
+   "start": 26.81,
+   "end": 28.73
+  },
+  {
+   "id": "g11",
+   "start": 29.26,
+   "end": 29.84
+  },
+  {
+   "id": "g12",
+   "start": 30.19,
+   "end": 32.84
+  },
+  {
+   "id": "g13",
+   "start": 33.08,
+   "end": 34.69
+  },
+  {
+   "id": "g14",
+   "start": 34.93,
+   "end": 39.13
+  },
+  {
+   "id": "g15",
+   "start": 39.54,
+   "end": 41.54
+  },
+  {
+   "id": "g16",
+   "start": 41.97,
+   "end": 43.32
+  },
+  {
+   "id": "g17",
+   "start": 43.72,
+   "end": 45.07
+  },
+  {
+   "id": "g18",
+   "start": 45.69,
+   "end": 48.4
+  },
+  {
+   "id": "g19",
+   "start": 48.8,
+   "end": 50.88
+  },
+  {
+   "id": "g20",
+   "start": 51.14,
+   "end": 52.48
+  },
+  {
+   "id": "g21",
+   "start": 52.96,
+   "end": 55.8
+  },
+  {
+   "id": "g22",
+   "start": 56.65,
+   "end": 58.96
+  },
+  {
+   "id": "g23",
+   "start": 59.68,
+   "end": 61.83
+  },
+  {
+   "id": "g24",
+   "start": 62.06,
+   "end": 62.38
+  },
+  {
+   "id": "g25",
+   "start": 62.71,
+   "end": 63.69
+  },
+  {
+   "id": "g26",
+   "start": 64.1,
+   "end": 64.81
+  },
+  {
+   "id": "g27",
+   "start": 65.2,
+   "end": 67.63
+  },
+  {
+   "id": "g28",
+   "start": 68.13,
+   "end": 69.71
+  },
+  {
+   "id": "g29",
+   "start": 70.15,
+   "end": 74.13
+  },
+  {
+   "id": "g30",
+   "start": 74.7,
+   "end": 77.32
+  },
+  {
+   "id": "g31",
+   "start": 77.99,
+   "end": 79.47
+  },
+  {
+   "id": "g32",
+   "start": 79.81,
+   "end": 81.94
+  },
+  {
+   "id": "g33",
+   "start": 82.4,
+   "end": 83.17
+  },
+  {
+   "id": "g34",
+   "start": 83.47,
+   "end": 84.67
+  },
+  {
+   "id": "g35",
+   "start": 85.01,
+   "end": 87.54
+  },
+  {
+   "id": "g36",
+   "start": 87.94,
+   "end": 88.69
+  },
+  {
+   "id": "g37",
+   "start": 89.04,
+   "end": 90.39
+  },
+  {
+   "id": "g38",
+   "start": 90.86,
+   "end": 93.78
+  }
+ ],
+ "sfx": [
+  {
+   "t": 0.05,
+   "type": "bell_dingding",
+   "gain_db": -3
+  },
+  {
+   "t": 0.6,
+   "type": "paper_handle",
+   "gain_db": -4
+  },
+  {
+   "t": 5.5,
+   "type": "paper_handle",
+   "gain_db": -3
+  },
+  {
+   "t": 13.2,
+   "type": "paper_handle",
+   "gain_db": -2
+  },
+  {
+   "t": 17.1,
+   "type": "footsteps",
+   "gain_db": -4
+  },
+  {
+   "t": 23.6,
+   "type": "footsteps",
+   "gain_db": -6
+  },
+  {
+   "t": 29.2,
+   "type": "door_creak",
+   "gain_db": -4
+  },
+  {
+   "t": 34.9,
+   "type": "trunk_open",
+   "gain_db": -6
+  },
+  {
+   "t": 37.0,
+   "type": "bell_clink",
+   "gain_db": -4
+  },
+  {
+   "t": 38.2,
+   "type": "cloth",
+   "gain_db": -2
+  },
+  {
+   "t": 39.55,
+   "type": "bell_once",
+   "gain_db": 0
+  },
+  {
+   "t": 41.9,
+   "type": "paper_handle",
+   "gain_db": -6
+  },
+  {
+   "t": 43.25,
+   "type": "knock",
+   "gain_db": 0
+  },
+  {
+   "t": 45.65,
+   "type": "page_turn",
+   "gain_db": -3,
+   "variant": 1
+  },
+  {
+   "t": 51.0,
+   "type": "cloth",
+   "gain_db": -6
+  },
+  {
+   "t": 54.9,
+   "type": "cycle_ting",
+   "gain_db": 0
+  },
+  {
+   "t": 55.9,
+   "type": "cycle_ting",
+   "gain_db": -2
+  },
+  {
+   "t": 56.5,
+   "type": "footsteps",
+   "gain_db": -8
+  },
+  {
+   "t": 68.0,
+   "type": "door_creak",
+   "gain_db": -2
+  },
+  {
+   "t": 71.9,
+   "type": "latch",
+   "gain_db": 0
+  },
+  {
+   "t": 72.3,
+   "type": "latch",
+   "gain_db": -4
+  },
+  {
+   "t": 77.2,
+   "type": "breath",
+   "gain_db": 0
+  },
+  {
+   "t": 79.75,
+   "type": "paper_handle",
+   "gain_db": -6
+  },
+  {
+   "t": 87.2,
+   "type": "breath",
+   "gain_db": 0
+  },
+  {
+   "t": 94.0,
+   "type": "bell_dingding",
+   "gain_db": -3
+  }
+ ],
+ "beds": [
+  {
+   "type": "shop",
+   "start": 0,
+   "end": 17.4,
+   "fade": 0.4,
+   "gain_db": 0,
+   "bus_at": 0.0
+  },
+  {
+   "type": "morning_lane",
+   "start": 17.0,
+   "end": 29.4,
+   "fade": 0.5,
+   "bus_at": null,
+   "gain_db": -1
+  },
+  {
+   "type": "night_room",
+   "start": 29.1,
+   "end": 100.1,
+   "fade": 0.6
+  }
+ ],
+ "music_cues": {
+  "final_bell": 94.0
+ }
+}

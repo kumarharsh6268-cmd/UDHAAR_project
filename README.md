@@ -20,3 +20,8 @@ Shankar: old man silhouette with stick + shawl; LEFT hand has three fingers (sha
 Red ledger = the only saturated red (art.RED_DEF). Brass dome bell = art.bell().
 Planted for rewatch: wheelchair figure faint at the back of the funeral (s01), Shankar's three-fingered hand (s06),
 "Ma didn't ask anyone" (L03), 46 mourners vs 47 names.
+
+## Episode 7 (Bablu "Hero") — ep07/
+Final: UDHAAR_Ep7_Bablu.mp4 (delivered separately; 100.1 s). Same pipeline as Ep6: ep07/build7.sh, ep07/vo/make_lines.py,
+ep07/edit/mix7.py timeline.json ../vo/vo_raw.wav mix.wav, ep07/edit/render.py. Stills named r_* are reused from earlier episodes.
+On-screen text rule: captions + 5 s header + vote card only.

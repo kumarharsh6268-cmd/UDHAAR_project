@@ -1,0 +1,14 @@
+tts/
+art/paper.npz
+**/__pycache__/
+ep06/art/raw/
+ep06/art/prev/
+ep06/edit/stems/
+ep06/vo/segs/
+*.mp4
+ep07/art/raw/
+ep07/art/prev/
+ep07/edit/stems/
+ep07/vo/segs/
+ep07/edit/render.log
+ep06/edit/render.log

@@ -1,0 +1,409 @@
+{
+ "duration": 94.4,
+ "score_profile": "ep06",
+ "lines": [
+  {
+   "id": "g00",
+   "start": 1.07,
+   "end": 2.23
+  },
+  {
+   "id": "g01",
+   "start": 3.05,
+   "end": 6.67
+  },
+  {
+   "id": "g02",
+   "start": 7.21,
+   "end": 8.38
+  },
+  {
+   "id": "g03",
+   "start": 8.78,
+   "end": 10.41
+  },
+  {
+   "id": "g04",
+   "start": 10.91,
+   "end": 12.26
+  },
+  {
+   "id": "g05",
+   "start": 12.73,
+   "end": 15.23
+  },
+  {
+   "id": "g06",
+   "start": 15.78,
+   "end": 17.8
+  },
+  {
+   "id": "g07",
+   "start": 18.55,
+   "end": 20.68
+  },
+  {
+   "id": "g08",
+   "start": 21.03,
+   "end": 22.85
+  },
+  {
+   "id": "g09",
+   "start": 23.31,
+   "end": 25.34
+  },
+  {
+   "id": "g10",
+   "start": 25.91,
+   "end": 27.64
+  },
+  {
+   "id": "g11",
+   "start": 28.21,
+   "end": 29.76
+  },
+  {
+   "id": "g12",
+   "start": 30.07,
+   "end": 32.19
+  },
+  {
+   "id": "g13",
+   "start": 32.68,
+   "end": 34.19
+  },
+  {
+   "id": "g14",
+   "start": 34.95,
+   "end": 36.79
+  },
+  {
+   "id": "g15",
+   "start": 37.07,
+   "end": 40.04
+  },
+  {
+   "id": "g16",
+   "start": 40.54,
+   "end": 43.67
+  },
+  {
+   "id": "g17",
+   "start": 44.0,
+   "end": 45.14
+  },
+  {
+   "id": "g18",
+   "start": 45.74,
+   "end": 47.0
+  },
+  {
+   "id": "g19",
+   "start": 47.83,
+   "end": 50.74
+  },
+  {
+   "id": "g20",
+   "start": 51.3,
+   "end": 51.89
+  },
+  {
+   "id": "g21",
+   "start": 52.21,
+   "end": 53.42
+  },
+  {
+   "id": "g22",
+   "start": 53.72,
+   "end": 55.37
+  },
+  {
+   "id": "g23",
+   "start": 55.77,
+   "end": 57.63
+  },
+  {
+   "id": "g24",
+   "start": 58.2,
+   "end": 60.51
+  },
+  {
+   "id": "g25",
+   "start": 60.93,
+   "end": 63.79
+  },
+  {
+   "id": "g26",
+   "start": 64.61,
+   "end": 67.28
+  },
+  {
+   "id": "g27",
+   "start": 67.74,
+   "end": 69.17
+  },
+  {
+   "id": "g28",
+   "start": 69.54,
+   "end": 71.33
+  },
+  {
+   "id": "g29",
+   "start": 71.75,
+   "end": 73.84
+  },
+  {
+   "id": "g30",
+   "start": 74.31,
+   "end": 76.41
+  },
+  {
+   "id": "g31",
+   "start": 77.03,
+   "end": 77.7
+  },
+  {
+   "id": "g32",
+   "start": 77.95,
+   "end": 80.49
+  },
+  {
+   "id": "g33",
+   "start": 80.86,
+   "end": 82.62
+  },
+  {
+   "id": "g34",
+   "start": 82.98,
+   "end": 83.83
+  },
+  {
+   "id": "g35",
+   "start": 84.08,
+   "end": 87.75
+  }
+ ],
+ "sfx": [
+  {
+   "t": 0.05,
+   "type": "bell_dingding",
+   "gain_db": -3
+  },
+  {
+   "t": 1.55,
+   "type": "paper_tear",
+   "gain_db": -4
+  },
+  {
+   "t": 3.2,
+   "type": "paper_handle",
+   "gain_db": -4
+  },
+  {
+   "t": 10.8,
+   "type": "bell_clink",
+   "gain_db": -2
+  },
+  {
+   "t": 12.8,
+   "type": "cloth",
+   "gain_db": -6
+  },
+  {
+   "t": 16.0,
+   "type": "clock_tick",
+   "gain_db": 0
+  },
+  {
+   "t": 17.0,
+   "type": "clock_tick",
+   "gain_db": 0
+  },
+  {
+   "t": 18.0,
+   "type": "clock_tick",
+   "gain_db": 0
+  },
+  {
+   "t": 18.5,
+   "type": "page_turn",
+   "gain_db": -2,
+   "variant": 2
+  },
+  {
+   "t": 19.0,
+   "type": "clock_tick",
+   "gain_db": -2
+  },
+  {
+   "t": 20.0,
+   "type": "clock_tick",
+   "gain_db": -2
+  },
+  {
+   "t": 21.0,
+   "type": "paper_handle",
+   "gain_db": -6
+  },
+  {
+   "t": 21.6,
+   "type": "pencil",
+   "gain_db": -6,
+   "dur": 0.6
+  },
+  {
+   "t": 22.0,
+   "type": "clock_tick",
+   "gain_db": -3
+  },
+  {
+   "t": 23.0,
+   "type": "clock_tick",
+   "gain_db": -4
+  },
+  {
+   "t": 25.9,
+   "type": "page_flutter",
+   "gain_db": -2,
+   "pages": 5
+  },
+  {
+   "t": 28.15,
+   "type": "page_turn",
+   "gain_db": -2,
+   "variant": 1
+  },
+  {
+   "t": 32.6,
+   "type": "footsteps",
+   "gain_db": -4
+  },
+  {
+   "t": 40.5,
+   "type": "cloth",
+   "gain_db": -4
+  },
+  {
+   "t": 40.9,
+   "type": "paper_handle",
+   "gain_db": -4
+  },
+  {
+   "t": 47.8,
+   "type": "whoosh",
+   "gain_db": -4,
+   "dur": 1.4
+  },
+  {
+   "t": 51.25,
+   "type": "paper_handle",
+   "gain_db": -4
+  },
+  {
+   "t": 53.65,
+   "type": "page_turn",
+   "gain_db": -3,
+   "variant": 3
+  },
+  {
+   "t": 58.25,
+   "type": "pencil",
+   "gain_db": 2,
+   "dur": 2.4
+  },
+  {
+   "t": 60.95,
+   "type": "paper_handle",
+   "gain_db": -5
+  },
+  {
+   "t": 64.55,
+   "type": "paper_handle",
+   "gain_db": -6
+  },
+  {
+   "t": 67.2,
+   "type": "breath",
+   "gain_db": 0
+  },
+  {
+   "t": 76.98,
+   "type": "page_turn",
+   "gain_db": -3,
+   "variant": 0
+  },
+  {
+   "t": 80.75,
+   "type": "cloth",
+   "gain_db": -3
+  },
+  {
+   "t": 80.85,
+   "type": "paper_handle",
+   "gain_db": -2
+  },
+  {
+   "t": 84.2,
+   "type": "breath",
+   "gain_db": 0
+  },
+  {
+   "t": 87.95,
+   "type": "bell_dingding",
+   "gain_db": -3
+  }
+ ],
+ "beds": [
+  {
+   "type": "hospital",
+   "start": 0,
+   "end": 10.9,
+   "fade": 0.3
+  },
+  {
+   "type": "room_tone",
+   "start": 10.7,
+   "end": 12.9,
+   "fade": 0.2
+  },
+  {
+   "type": "night_room",
+   "start": 12.7,
+   "end": 26.0,
+   "fade": 0.4
+  },
+  {
+   "type": "morning_lane",
+   "start": 25.85,
+   "end": 35.2,
+   "fade": 0.4,
+   "bus_at": null
+  },
+  {
+   "type": "shop",
+   "start": 34.7,
+   "end": 47.9,
+   "fade": 0.4,
+   "gain_db": 3,
+   "dog_at": 9.3,
+   "bus_at": 0.1
+  },
+  {
+   "type": "room_tone",
+   "start": 47.7,
+   "end": 51.4,
+   "fade": 0.3
+  },
+  {
+   "type": "shop",
+   "start": 51.1,
+   "end": 94.4,
+   "fade": 0.5,
+   "gain_db": 1,
+   "bus_at": 20.6
+  }
+ ],
+ "music_cues": {
+  "final_bell": 87.95
+ }
+}

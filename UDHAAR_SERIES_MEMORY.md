@@ -319,12 +319,100 @@ The bell ding-ding plays on the final line.
 
 `scripts/build_ep.sh EPDIR shot '{post}'` builds a single shot for any episode.
 
+
+### Episode 6 · Day 6 · #6 Rukhsana Begum, tailor · ₹30,000 (2006) · "बहत्तर हज़ार" — DONE (94.4 s)
+File: `UDHAAR_Ep6_Rukhsana.mp4` (project folder `ep06/`). Opening = **Ep5 ASK** (cheque taken). Vote shown: **ASK / LET GO**.
+Header (first 5 s, bible v3 meters): `DIN 6/47 | QARZ ₹21,00,000 | JAMA ₹1,71,000 | SAATH 1` + `KAL KA FAISLA: ASK` (no % supplied).
+VO: the creator's own recording (`ep06/vo/vo_raw.wav`, 88.4 s, Supertonic voice), not re-synthesised. Captions are timed from it:
+pause-split into 36 segments (`vo/seg.py`), each checked by Whisper (`vo/asr.txt`), words spread by syllables (`vo/make_lines.py`).
+
+**Narration (Roman, as captioned):** Aapne kaha, cheque le lo. / Gauri ji ne ek lakh bees hazaar ka cheque diya, aur boli, "Hisaab barabar." /
+Phir nazar pher kar bataaya, "Tumhare Papa ke aakhri shabd the... peetal ki ghanti... saintalis ko..." / Sunkar mujhe ghar mein rakhi Papa ki ghanti yaad aayi. /
+Magar saintalis se unka kya matlab tha? / Diary ka saintalisvaan naam kata hua tha, aur ticket ka route bhi saintalis tha. / Unke aakhri shabdon mein mera naam nahi tha. /
+Phir maine diary ka chhatha panna khola. / Usmein Rukhsana Begum ka pata tha, aur silaai machine ke tees hazaar rupaye likhe the. /
+Unse milne Darzi Gali pahuncha, toh dukaan mein teen machinein chal rahi thi, jabki kone mein rakhi puraani kaali machine par koi nahi baitha tha. /
+Maine unhe diary dikha kar machine ke paise lautaane ki baat ki, toh unka chehra utar gaya. / Boli, "Udhaar kis baat ka? Tumhare Papa baarah saal tak har mahine paanch sau dete the.
+Kehte the, silaai ka advance hai, magar kabhi kuch silwaaya hi nahi. Ise udhaar kehna unki beizzati hai." / Maine hisaab joda, toh bahattar hazaar rupaye hue. /
+Lekin diary mein sirf machine ke tees hazaar likhe the. / Har mahine diye gaye un paison ka kahin zikr nahi tha. / Agar Papa madad kar rahe the, toh kya machine ke paise bhi madad hi the? /
+Rukhsana ji tees hazaar lauta sakti thi, lekin woh ise udhaar maanti hi nahi thi. / Doosri taraf, machine ka hisaab Papa ne diary mein khud likha tha. /
+Unhone diary meri taraf sarka di. / Ab aap bataaiye, Papa ka likha maan kar paise maangoon, ya Rukhsana ji ki baat maan kar rehne doon?
+
+**Shots** (`ep06/edit/edl.py`): c01 cheque torn off (Gauri's hands, white cuffs) · c02 cheque passed to Kabir (+₹1,20,000) · c03 Gauri profile at the window ·
+c04 memory: Papa's hand on the hospital sheet (ID band) · c05 the bell in the dark + Kalam "पीतल की घंटी… सैंतालीस को…" · c06 open trunk, bell on the uniform ·
+c07 Kabir under the bulb + "47?" · c08 page 47 scratched/torn, maroon pen · c09 Route 47 ticket, 47 circled · c10 Kabir eyes down over bell/page/ticket ·
+c11 morning, diary opened · c12 page 6 (name, दर्ज़ी गली, ₹30,000 — मशीन, 2006) + reframe · c14 Darzi Gali over Kabir's shoulder · c15 three women at machines ·
+c16 the old black machine, half under a cloth, empty stool · c17 cutting table: diary set down, her bangled hands · c18/c19 Rukhsana's face falls / chin up (name tag) ·
+c20 memory: Papa backlit at the shop door with an envelope (₹500 · har mahine) · c21 envelopes in a tin (no stitched hems — held for Ep7) · c22 order book "मोहन लाल जी", empty ·
+c23 Rukhsana, spectacles on · c24 the sum on the notice's back (12 साल × 12 = 144 महीने; 144 × ₹500 = ₹72,000) · c25 DIARY ₹30,000 vs LIFAAFE ₹72,000 ·
+c26 finger down empty rows · c27 Kabir eyes down · c28 reframe of the old machine · c29 new cloth to the ceiling, machines busy · c30 Rukhsana looks away ·
+c31 macro of Papa's "₹30,000 — मशीन" · c32 diary pushed back by her hand · c33 two-shot · c34 Kabir · vote card.
+Vote card: "Papa ka likha maanoon, ya Rukhsana ji ki baat?" ASK — "Diary maano, machine ke ₹30,000 lo" · LET GO — "Unki baat maano, udhaar nahi tha".
+
+**New canon / designs (Ep6):** Rukhsana (`ep06/people6.py rukhsana()`): late 50s, sage-green dupatta with gold border over her hair, mustard kameez,
+measuring tape round the neck, spectacles on a cord (or on), green/gold glass bangles. Dr Gauri (`gauri()`): short black bob, white coat, stethoscope.
+Shop: one yellow bulb, shelves of folded cloth, three treadle machines, the old black machine in the corner (half covered, nobody sits there).
+Ticket face: "NAGAR BUS SEVA · ROUTE 47 · 9-1-2001 · ₹4". Papa's pen on page 47 is maroon (muted), not ledger red.
+**New tools:** `ep06/hands6.py` — bone-built dorsal hands (poses FLAT, RELAXED, POINT, GRIP, PENCIL; sleeves, bangles, ID band, age). Use these for
+every hand from now on instead of HAND_R5 outlines. `props6.py` (sewing machine, treadle table, cloth shelves, envelope, cheque, ticket, notice back,
+order book, page47, worker silhouettes, Kabir back view). `ep06/build6.sh` builds shots (post limited to 3 parallel jobs — more runs out of memory).
+Camera in `ep06/edit/render.py`: per-shot (zoom, focus) eased moves + overlays anchored to the still (circle, write-on sums, highlighter).
+Sound: `sound/score_ep06.py`; `ep06/edit/mix6.py` adds `shop` (treadle machines; stop one by one on "chehra utar gaya", resume on "lauta sakti thi") and `hospital` beds.
+
+### Episode 7 · Day 7 · #7 Bablu "Hero" · ₹50,000 (2007) · "पापा की आवाज़" — DONE (100.1 s)
+File: `UDHAAR_Ep7_Bablu.mp4` (`ep07/`). Opening = **Ep6 ASK** (₹30,000 taken; "Ab main karzdaar nahi"). **Story vote: BATAO / CHHUPAO** (Ma ka sawaal).
+Header (first 5 s): `DIN 7/47 | QARZ ₹21,00,000 | JAMA ₹2,01,000 | SAATH 1` + `KAL KA FAISLA: ASK`.
+**On-screen text rule (creator, after Ep6): no floating labels, chips, name tags or comparison boxes. Only the bottom captions,
+the 5 s header and the vote card. Any other readable text must be inside the picture (handwriting, the plate, the ticket, the calendar).**
+VO: creator's recording `ep07/vo/vo_raw.wav` (93.9 s), 39 pause segments, Whisper-checked (`vo/asr.txt`).
+
+**Narration (Roman, captioned):** Pichhle episode ke comments mein aapne kaha tha, "Machine ke paise le lo." Toh maine Rukhsana ji se tees hazaar rupaye le liye. /
+Unke hisaab se Papa ne madad ki thi, isliye mera paise waapas maangna unhe bura laga. Paise mere haath mein rakhte hue boli, "Ab main karzdaar nahi." /
+Wahaan se nikalne laga, toh unhone bataaya ki do hazaar ek ki sardi mein Ma ne Papa ke liye raat bhar kuch sila tha. / Raaste bhar main Papa se judi aisi baatein sochta raha,
+jinke baare mein mujhe kuch pata hi nahi tha. / Ghar lauta, toh Gauri ji ke bataaye, unke aakhri shabd yaad aaye... "Peetal ki ghanti... saintalis ko..." /
+Unka matlab samajhne ke liye bakse se Papa ki ghanti nikaali, aur saaf karne laga. Uske andar saintalis likha hua tha, wahi number jo ticket par tha. /
+Tabhi Bablu Hero milne aaye. Diary mein unke naam pachaas hazaar rupaye likhe the, magar lautaane ke liye abhi paise nahi the, isliye maafi maangne aaye the. /
+Baatein karte karte woh mohalle waalon ki nakalein utaarne lage, toh Ma bhi rasoi ke darwaaze par aakar sunne lagi. / Jaate jaate unhone Papa ke lehje mein kaha,
+"Kabir... kisi se mat maangna." / Main thithak gaya, kyunki yahi baat diary ke pehle panne par likhi thi, jo unhone kabhi dekha hi nahi tha. /
+Unke jaate hi Ma ne darwaaze ki kundi lagaayi aur poochha, "Aaj Rukhsana aayi thi. Tum Papa ki diary lekar logon se paise maang rahe ho?" /
+Ma ko ab tak nahi bataaya tha ki ghar bachaane ke liye paise jama kar raha hoon. Sach bataata, toh woh mujhe rok sakti thi, lekin baat chhipaane ke liye unhi se jhooth bolna padta. /
+Ab aap bataaiye, Ma ko poora sach bata doon, ya bas itna kahoon ki Papa ke doston se mil raha hoon?
+Vote card: "Ma ko poora sach bata doon, ya bas itna kahoon?" BATAO — "Ma ko poora sach batao" · CHHUPAO — 'Bas itna: "Papa ke doston se mil raha hoon"'. Tie: heads = BATAO.
+
+**Shots** (`ep07/edit/edl.py`): d01 her hand on ₹500 notes, cutting table · r_c16 the old machine · d02 notes pressed into Kabir's hand · r_c20 Papa's envelope (memory) ·
+d03 Rukhsana turned away, hurt · d04 chin up "karzdaar nahi" · d05 Kabir leaving through the bright shop door · r_c30 Rukhsana telling · d06 memory 2001: young Ma
+(muted indigo saree) sewing through the night by a lamp, frost on the window (the cloth is NOT identifiable) · d07 dusk lane over his shoulder · d08 Kabir thinking ·
+d09 Verma door at dusk, notice taped · r_c04 Papa's hand on the hospital sheet · r_c05 the bell in the dark · d10 hands lift the dusty bell from the trunk · d11 polishing ·
+d12 inside the dome: riveted brass plate engraved 47 · d13 ticket beside the plate · d14 Bablu at the door with a sweets box · d15 diary page 7 "बबलू 'हीरो' ₹50,000 2007" ·
+d16 Bablu sheepish · d17 on the cot, palms joined · d18 cough impression (fist) · d19 cycle-bell impression · d20 Ma at the kitchen door, not smiling ·
+d21 Bablu at the threshold, hand at throat · r_s09 Papa's portrait under "Kabir... kisi se mat maangna" · d22 Kabir stops dead · r_s25 first page ·
+d23 empty threshold, sweets box left on the cot · d24 Ma's hand on the iron bolt · d25 Ma eyes lowered · d26 Ma looks straight at him · d27 the bell in his hands, diary behind ·
+d28 the diary with notes tucked in + notice · d30 Ma's hand steady on the door frame · d31 Kabir eyes down · d32 wide: Ma at the door, Kabir on the cot, the bulb between · d33 Ma waiting.
+(d29 Ma's calendar Dec 2026 with 11–17 crossed is built but not used.)
+
+**New canon (Ep7):** the bell's "47" is a riveted brass plate inside the dome, engraved numerals (found this episode; Ep8 may refer to it, must not re-discover it).
+Bablu (`ep07/people7.py bablu()`): 48, stocky, oiled pompadour that shines, thin moustache, muted mustard shirt with brown paisley print. Ma (`ma_lit()`) = pilot s30 construction.
+Sweets box left behind on the cot. Ma bolted the door (iron kundi). Ma now knows Kabir is visiting people with the diary (Rukhsana told her, angry). Bablu's ₹50,000 never collected.
+**Sound:** `sound/score_ep07.py` (music hard-muted from "Papa ke lehje mein kaha" to "kyunki..."), `ep07/edit/mix7.py` (+ `knock`, `bell_once`, `cycle_ting` SFX; shop bed in the opening).
+**Renderer:** vote card text now comes from the EDL (`'vote'` overlay params: day, q lines, a/b labels+subs, tie, next).
+
 ## 7. Running state (update after every episode)
 
 | Ep | Day | Vote shown | Real winner | % | Top comment | WE OWE | COLLECTED | LET GO |
 |---|---|---|---|---|---|---|---|---|
 | 0 | 0 | none | — | — | — | ₹21,00,000 | ₹0 | 0 |
-| 1 | 1 | ASK / LET GO | **pending: ask the creator for the real result** | | | ₹21,00,000 | ₹0 | 0 |
+| 1 | 1 | ASK / LET GO | ASK | — | — | ₹21,00,000 | ₹6,000 | 0 |
+| 2 | 2 | ASK / LET GO | LET GO (watch returned) | — | — | ₹21,00,000 | ₹6,000 | 1 |
+| 3 | 3 | ASK / LET GO | ASK | — | — | ₹21,00,000 | ₹31,000 | 1 |
+| 4 | 4 | ASK / LET GO | ASK | — | — | ₹21,00,000 | ₹51,000 | 1 |
+| 5 | 5 | ASK / LET GO | ASK (cheque taken) | not supplied | — | ₹21,00,000 | ₹1,71,000 | 1 |
+| 6 | 6 | ASK / LET GO | ASK (₹30,000, in anger) | — | — | ₹21,00,000 | ₹2,01,000 | 1 |
+| 7 | 7 | BATAO / CHHUPAO (story) | **pending: ask the creator** | | | ₹21,00,000 | ₹2,01,000 | 1 |
+
+From Ep2 on the bible v3 meters are QARZ / JAMA / SAATH (JAMA = COLLECTED, SAATH = commitments of support). Ep6 header uses them.
+**What Ep8 needs from the Ep7 result:** BATAO → MA_TRUST OPEN; Kabir tells Ma everything; Ma gives Papa's service book open at "Ghat route se hataaya gaya — Feb 2001"; in Ep8 he asks «क्या पापा उस रात उसी रूट पर थे?», she deflects and sets «पैसे उन्हीं से लेना जो ख़ुद दें। किसी के आगे हाथ मत फैलाना।». CHHUPAO → MA_TRUST GUARDED; he says he is meeting Papa's friends; that night he overhears Ma at Papa's photo: «तुमने कभी उस लड़की का नाम नहीं लिया, मैं भी नहीं लूँगी।». No ₹/SAATH change either way. Ep8 = #8 Kishore ₹35,000 (2007).
+
+(Old) **What Ep7 needed from the Ep6 result:** ASK → JAMA +₹30,000 (= ₹2,01,000), paid in anger ("ab main karzdaar nahi"); she goes to Ma. LET GO → SAATH +1 (= 2);
+she shows her receipt book (each envelope hemmed with a tiny double stitch — image only); she goes to Ma to praise him. Both: Ep7 opens «पापा कहते थे…» (Ma sewed something in 2001).
 
 **What Ep 2 needs from the Ep 1 result:**
 - **If ASK won:** the opening says Shankar gave the full ₹6,000 from an old biscuit box, and a Route 47 ticket fell out. COLLECTED becomes ₹6,000 and LET GO stays 0.
